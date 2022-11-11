@@ -7,9 +7,17 @@ img {
   height: 100px;
 }
 
+.plants {
+  display: flex;
+  justify-content: space-around;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+
 }
 
 /* do not edit this footer */
